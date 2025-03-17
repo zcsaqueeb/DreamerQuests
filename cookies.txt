@@ -1,2 +1,1 @@
-your_cookie_data_1
-your_cookie_data_2
+_ga=GA1.1.1383171526.1741857173; connect.sid=s%3ARNR7mqBPOKKBjUynknqFsdniouqhZGBw.0mrdPmL%2FJ1Y4UhIpYk%2F3Qg9Mya2N6gWDoTDh%2FQgTTHo; mp_e6c1df805ebbda71bc8328f82d8e25e5_mixpanel=%7B%22distinct_id%22%3A%20%22b7debc95dbb102131cc6cc93ffe81f1e%22%2C%22%24device_id%22%3A%20%221958ec71c11725-08e9359c5bf37b-26011d51-e1000-1958ec71c11726%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fgithub.com%2Fvonssy%2FDreamerQuests-BOT%3Ftab%3Dreadme-ov-file%22%2C%22%24initial_referring_domain%22%3A%20%22github.com%22%2C%22%24user_id%22%3A%20%22b7debc95dbb102131cc6cc93ffe81f1e%22%7D; _ga_PR336MSKM8=GS1.1.1742234452.2.1.1742234780.0.0.0
